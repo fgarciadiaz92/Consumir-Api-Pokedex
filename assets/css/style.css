@@ -1,0 +1,78 @@
+#colorFondo{
+    background-color: #49AAB8;
+}
+#tamanoCirculo{
+    width: 10rem;
+    height: 10rem;
+    margin-top: auto;
+}
+
+#cajaCentral{
+    margin-top: 1rem;
+    font-style:italic;
+    font-weight:bold;
+    font-size:1em;
+}
+#Carta{
+    margin-right: 2rem;
+    margin-left: 2rem;
+    background-color:#9370db;
+    border-radius: 1.5rem;
+    border-color: #EBD838;
+    border-style: solid;
+    border-radius: 1rem;
+    border-width: 0.5rem;
+    height: 20rem;
+    
+}
+#Carta2{
+    margin-right: 2rem;
+    margin-left: 2rem;
+    background-color:#9370db;
+    border-radius: 1.5rem;
+    border-color: #EBD838;
+    border-style: solid;
+    border-radius: 1rem;
+    border-width: 0.5rem;
+    height: 20rem;
+}
+#Carta2 select {
+    
+    display: inline-block;
+    width: 15rem;
+    
+}
+
+
+#imagenPokemon{
+    width: 12rem;
+    height:12rem;  
+    margin-left: 5rem;
+    margin-top: 1rem;
+    
+}
+#imagenPokemon2{
+    width: 12rem;
+    height:12rem;  
+    margin-left: 5rem;
+    margin-top: 1rem;
+    
+}
+#barraTitulo{
+  color: red;
+  text-align: center;
+}
+h3{
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+#vs{
+    margin-top:10rem ;
+    font-style:italic;
+    font-weight:bold;
+    font-size:1em;
+}
+#chartContainer{
+    margin-top: 1rem;
+    
+}
